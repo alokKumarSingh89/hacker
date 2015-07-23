@@ -1,0 +1,2 @@
+number_of_transaction=gets.chomp
+worth_of_tranction=gets
